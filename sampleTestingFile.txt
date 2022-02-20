@@ -1,4 +1,5 @@
 this is sample file 1
+
 ##
 #
 #
@@ -7,3 +8,18 @@ this is sample file 1
 #
 sample to see when merged
 
+
+this is a comparison
+
+#
+#
+#
+##
+#
+#
+##
+#
+#
+#
+# 
+adding a new row to see when merged
